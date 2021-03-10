@@ -1,0 +1,16 @@
+D:\Sparta training\C#\Day 3\Tuples\bin\Debug\net5.0\Tuples.exe
+D:\Sparta training\C#\Day 3\Tuples\bin\Debug\net5.0\Tuples.deps.json
+D:\Sparta training\C#\Day 3\Tuples\bin\Debug\net5.0\Tuples.runtimeconfig.json
+D:\Sparta training\C#\Day 3\Tuples\bin\Debug\net5.0\Tuples.runtimeconfig.dev.json
+D:\Sparta training\C#\Day 3\Tuples\bin\Debug\net5.0\Tuples.dll
+D:\Sparta training\C#\Day 3\Tuples\bin\Debug\net5.0\ref\Tuples.dll
+D:\Sparta training\C#\Day 3\Tuples\bin\Debug\net5.0\Tuples.pdb
+D:\Sparta training\C#\Day 3\Tuples\obj\Debug\net5.0\Tuples.csprojAssemblyReference.cache
+D:\Sparta training\C#\Day 3\Tuples\obj\Debug\net5.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sparta training\C#\Day 3\Tuples\obj\Debug\net5.0\Tuples.AssemblyInfoInputs.cache
+D:\Sparta training\C#\Day 3\Tuples\obj\Debug\net5.0\Tuples.AssemblyInfo.cs
+D:\Sparta training\C#\Day 3\Tuples\obj\Debug\net5.0\Tuples.csproj.CoreCompileInputs.cache
+D:\Sparta training\C#\Day 3\Tuples\obj\Debug\net5.0\Tuples.dll
+D:\Sparta training\C#\Day 3\Tuples\obj\Debug\net5.0\ref\Tuples.dll
+D:\Sparta training\C#\Day 3\Tuples\obj\Debug\net5.0\Tuples.pdb
+D:\Sparta training\C#\Day 3\Tuples\obj\Debug\net5.0\Tuples.genruntimeconfig.cache

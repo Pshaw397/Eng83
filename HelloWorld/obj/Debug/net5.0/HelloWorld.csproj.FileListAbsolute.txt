@@ -1,0 +1,16 @@
+D:\Sparta training\Eng83\Eng83\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\Sparta training\Eng83\Eng83\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\Sparta training\Eng83\Eng83\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\Sparta training\Eng83\Eng83\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\Sparta training\Eng83\Eng83\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\Sparta training\Eng83\Eng83\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\Sparta training\Eng83\Eng83\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\Sparta training\Eng83\Eng83\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+D:\Sparta training\Eng83\Eng83\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sparta training\Eng83\Eng83\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Sparta training\Eng83\Eng83\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\Sparta training\Eng83\Eng83\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Sparta training\Eng83\Eng83\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\Sparta training\Eng83\Eng83\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\Sparta training\Eng83\Eng83\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\Sparta training\Eng83\Eng83\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

@@ -1,3 +1,0 @@
-This is a test file created into the clone
-
-Here would go some C# code

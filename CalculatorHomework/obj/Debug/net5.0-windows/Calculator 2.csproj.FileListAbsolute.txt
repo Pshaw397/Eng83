@@ -1,0 +1,22 @@
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\bin\Debug\net5.0-windows\Calculator 2.exe
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\bin\Debug\net5.0-windows\Calculator 2.deps.json
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\bin\Debug\net5.0-windows\Calculator 2.runtimeconfig.json
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\bin\Debug\net5.0-windows\Calculator 2.runtimeconfig.dev.json
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\bin\Debug\net5.0-windows\Calculator 2.dll
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\bin\Debug\net5.0-windows\ref\Calculator 2.dll
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\bin\Debug\net5.0-windows\Calculator 2.pdb
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\App.g.cs
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\Calculator 2_MarkupCompile.cache
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\Calculator 2_MarkupCompile.lref
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\Calculator 2.g.resources
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\Calculator 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\Calculator 2.AssemblyInfoInputs.cache
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\Calculator 2.AssemblyInfo.cs
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\Calculator 2.csproj.CoreCompileInputs.cache
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\Calculator 2.dll
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\ref\Calculator 2.dll
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\Calculator 2.pdb
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\Calculator 2.genruntimeconfig.cache
+D:\Sparta training\C#\Day 5\Homework\Calculator 2\obj\Debug\net5.0-windows\Calculator 2.csprojAssemblyReference.cache

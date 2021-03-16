@@ -1,0 +1,31 @@
+﻿<Window x:Class="Calculator_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator_2"
+        mc:Ignorable="d"
+        Title="" Height="400" Width="400">
+    <Grid>
+        <Border BorderThickness="3,3,3,3" BorderBrush="Black"/>
+
+        <TextBlock x:Name="calculatorDisplay" HorizontalAlignment="Left" Margin="17,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="347" Height="35" FontSize="25" TextAlignment="Center" Background="Black" Foreground="White"/>
+        <Button x:Name="numBtn" Content="1" HorizontalAlignment="Left" Margin="17,91,0,0" VerticalAlignment="Top" Height="39" Width="67" Background="#FF4982E8" FontSize="15" Click="Num1Btn_Click"/>
+        <Button x:Name="additionBtn" Content="+" HorizontalAlignment="Left" Margin="284,91,0,0" VerticalAlignment="Top" Height="39" Width="89" Background="#FFF08B13" FontSize="25" FontWeight="Normal" Click="AdditionBtn_Click"/>
+        <Button x:Name="EqualBtn" Content="=" HorizontalAlignment="Left" Margin="284,308,0,0" VerticalAlignment="Top" Height="39" Width="89" Background="#FFF03535" FontSize="25" Click="EqualBtn_Click"/>
+        <Button x:Name="ClearBtn" Content="C" HorizontalAlignment="Left" Margin="17,308,0,0" VerticalAlignment="Top" Height="39" Width="55" FontSize="25" Background="#FFDC3333" Click="ClearBtn_Click"/>
+        <Button x:Name="numBtn2" Content="2" HorizontalAlignment="Left" Margin="101,91,0,0" VerticalAlignment="Top" Height="39" Width="67" Background="#FF4982E8" FontSize="15" Click="Num1Btn_Click"/>
+        <Button x:Name="numBtn3" Content="3" HorizontalAlignment="Left" Margin="190,91,0,0" VerticalAlignment="Top" Height="39" Width="67" Background="#FF4982E8" FontSize="15" Click="Num1Btn_Click"/>
+        <Button x:Name="numBtn4" Content="4" HorizontalAlignment="Left" Margin="17,146,0,0" VerticalAlignment="Top" Height="39" Width="67" Background="#FF4982E8" FontSize="15" Click="Num1Btn_Click"/>
+        <Button x:Name="numBtn5" Content="5" HorizontalAlignment="Left" Margin="101,146,0,0" VerticalAlignment="Top" Height="39" Width="67" Background="#FF4982E8" FontSize="15" Click="Num1Btn_Click"/>
+        <Button x:Name="numBtn6" Content="6" HorizontalAlignment="Left" Margin="190,146,0,0" VerticalAlignment="Top" Height="39" Width="67" Background="#FF4982E8" FontSize="15" Click="Num1Btn_Click"/>
+        <Button x:Name="numBtn7" Content="7" HorizontalAlignment="Left" Margin="17,202,0,0" VerticalAlignment="Top" Height="39" Width="67" Background="#FF4982E8" FontSize="15" Click="Num1Btn_Click"/>
+        <Button x:Name="numBtn8" Content="8" HorizontalAlignment="Left" Margin="101,202,0,0" VerticalAlignment="Top" Height="39" Width="67" Background="#FF4982E8" FontSize="15" Click="Num1Btn_Click"/>
+        <Button x:Name="numBtn9" Content="9" HorizontalAlignment="Left" Margin="190,202,0,0" VerticalAlignment="Top" Height="39" Width="67" Background="#FF4982E8" FontSize="15" Click="Num1Btn_Click"/>
+        <Button x:Name="numBtn0" Content="0" HorizontalAlignment="Left" Margin="101,256,0,0" VerticalAlignment="Top" Height="39" Width="67" Background="#FF4982E8" FontSize="15" Click="Num1Btn_Click"/>
+        <Button x:Name="subtractBtn" Content="-" HorizontalAlignment="Left" Margin="284,146,0,0" VerticalAlignment="Top" Height="39" Width="89" Background="#FFF08B13" FontSize="25" FontWeight="Normal" Click="AdditionBtn_Click"/>
+        <Button x:Name="multiplyBtn" Content="X" HorizontalAlignment="Left" Margin="284,202,0,0" VerticalAlignment="Top" Height="39" Width="89" Background="#FFF08B13" FontSize="25" FontWeight="Normal" Click="AdditionBtn_Click"/>
+        <Button x:Name="divisionBtn" Content="/" HorizontalAlignment="Left" Margin="284,256,0,0" VerticalAlignment="Top" Height="39" Width="89" Background="#FFF08B13" FontSize="25" FontWeight="Normal" Click="AdditionBtn_Click"/>
+
+    </Grid>
+</Window>

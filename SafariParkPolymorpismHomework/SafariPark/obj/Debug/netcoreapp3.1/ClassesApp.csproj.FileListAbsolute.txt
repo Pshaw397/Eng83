@@ -1,0 +1,39 @@
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.exe
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.deps.json
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.runtimeconfig.json
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.runtimeconfig.dev.json
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.dll
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.pdb
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.csprojAssemblyReference.cache
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.AssemblyInfoInputs.cache
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.AssemblyInfo.cs
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.csproj.CoreCompileInputs.cache
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.dll
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.pdb
+C:\Users\MBeard\Documents\MARTIN\CSharpCurriculum\CSharp-OOP\03_Inheritance\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.genruntimeconfig.cache
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.exe
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.deps.json
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.runtimeconfig.json
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.runtimeconfig.dev.json
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.dll
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.pdb
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.csprojAssemblyReference.cache
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.AssemblyInfoInputs.cache
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.AssemblyInfo.cs
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.csproj.CoreCompileInputs.cache
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.dll
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.pdb
+D:\Sparta training\C#\Week 2\Day 3\SafariParkInheritanceAfterExercise\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.genruntimeconfig.cache
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.exe
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.deps.json
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.runtimeconfig.json
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.runtimeconfig.dev.json
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.dll
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\bin\Debug\netcoreapp3.1\ClassesApp.pdb
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.csprojAssemblyReference.cache
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.AssemblyInfoInputs.cache
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.AssemblyInfo.cs
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.csproj.CoreCompileInputs.cache
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.dll
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.pdb
+D:\Sparta training\C#\Week 2\Homework\SafariParkPolymorpismHomework\SafariPark\obj\Debug\netcoreapp3.1\ClassesApp.genruntimeconfig.cache

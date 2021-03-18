@@ -1,0 +1,16 @@
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\bin\Debug\net5.0\Safari Park.exe
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\bin\Debug\net5.0\Safari Park.deps.json
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\bin\Debug\net5.0\Safari Park.runtimeconfig.json
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\bin\Debug\net5.0\Safari Park.runtimeconfig.dev.json
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\bin\Debug\net5.0\Safari Park.dll
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\bin\Debug\net5.0\ref\Safari Park.dll
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\bin\Debug\net5.0\Safari Park.pdb
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\obj\Debug\net5.0\Safari Park.csprojAssemblyReference.cache
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\obj\Debug\net5.0\Safari Park.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\obj\Debug\net5.0\Safari Park.AssemblyInfoInputs.cache
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\obj\Debug\net5.0\Safari Park.AssemblyInfo.cs
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\obj\Debug\net5.0\Safari Park.csproj.CoreCompileInputs.cache
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\obj\Debug\net5.0\Safari Park.dll
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\obj\Debug\net5.0\ref\Safari Park.dll
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\obj\Debug\net5.0\Safari Park.pdb
+D:\Sparta training\C#\Week 2\Day 2\Homework\Safari Park\obj\Debug\net5.0\Safari Park.genruntimeconfig.cache

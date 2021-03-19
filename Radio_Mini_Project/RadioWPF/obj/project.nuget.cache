@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGBUUi06bKOwgsp/o72yZKC4X83DVbVk3T9FVLisByJwVvCbZXnMDj9DZOOSmUf7rUW6JNnln6HRyRmFqldqYg==",
+  "success": true,
+  "projectFilePath": "D:\\Sparta training\\C#\\Week 2\\Radio\\Radio_Mini_Project\\RadioWPF\\RadioWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phill\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Phill\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Phill\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Phill\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

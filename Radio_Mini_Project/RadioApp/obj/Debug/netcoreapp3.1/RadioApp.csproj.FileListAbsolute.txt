@@ -1,0 +1,10 @@
+D:\Sparta training\C#\Week 2\Radio\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.deps.json
+D:\Sparta training\C#\Week 2\Radio\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.dll
+D:\Sparta training\C#\Week 2\Radio\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.pdb
+D:\Sparta training\C#\Week 2\Radio\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.csprojAssemblyReference.cache
+D:\Sparta training\C#\Week 2\Radio\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.AssemblyInfoInputs.cache
+D:\Sparta training\C#\Week 2\Radio\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.AssemblyInfo.cs
+D:\Sparta training\C#\Week 2\Radio\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.csproj.CoreCompileInputs.cache
+D:\Sparta training\C#\Week 2\Radio\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.dll
+D:\Sparta training\C#\Week 2\Radio\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.pdb
+D:\Sparta training\C#\Week 2\Radio\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\Music\bensound-sunny.mp3

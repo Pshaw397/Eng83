@@ -24,58 +24,91 @@ namespace RadioWPF
     public partial class MainWindow : Window
     {
         Radio radioPlayer = new Radio();
+        List<string> sourceList = new List<string>();
         public MainWindow()
         {
             InitializeComponent();
 
-            mediaElementCh1.Source = new Uri("http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p", UriKind.RelativeOrAbsolute); // BBC Radio 1
-            mediaElementCh2.Source = new Uri("http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p", UriKind.RelativeOrAbsolute); // BBC Radio 2
-            mediaElementCh3.Source = new Uri("http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p", UriKind.RelativeOrAbsolute); // BBC Radio 3
-            mediaElementCh4.Source = new Uri("http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4_mf_p", UriKind.RelativeOrAbsolute); // BBC Radio 4
-
+            sourceList.Add("http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one");
+            sourceList.Add("http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two");
+            sourceList.Add("http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three");
+            sourceList.Add(@"D:\Sparta training\C#\Week 2\Radio\Radio_Mini_Project\RadioApp\Music\bensound-sunny.mp3");
+            //sourceList.Add("http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p");
         }
 
-        public class RadioControl
+        public void radioDisplayText(string displayText) => RadioDisplay.Text = displayText;
+
+        public void channelPlay()
         {
-            
+            if (radioPlayer.RadioPlaying == true)
+            {
+                radioDisplayText(radioPlayer.Play());
+                mediaElementCh.Source = new Uri(sourceList[radioPlayer.Channel - 1]);
+                mediaElementCh.Play();
+            }
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Button clickedBtn = (Button)sender;
-            if (clickedBtn.Content.ToString() == "Channel 1")
+            if (clickedBtn.Content.ToString() == "Channel 1" & radioPlayer.On == true)
             {
                 radioPlayer.Channel = 1;
+                channelPlay();
             }
+            else if (clickedBtn.Content.ToString() == "Channel 2" & radioPlayer.On == true)
+            {
+                radioPlayer.Channel = 2;
+                channelPlay();
+            }
+            else if (clickedBtn.Content.ToString() == "Channel 3" & radioPlayer.On == true)
+            {
+                radioPlayer.Channel = 3;
+                channelPlay();
+            }
+            else if (clickedBtn.Content.ToString() == "Channel 4" & radioPlayer.On == true)
+            {
+                radioPlayer.Channel = 4;
+                channelPlay();
+            }
+
+            if(radioPlayer.RadioPlaying == false & radioPlayer.On == true)
+            {
+                radioDisplayText($"Channel {radioPlayer.Channel} Selected - Press 'Play' To Start");
+            }
+
             if (clickedBtn.Content.ToString() == "Play" & radioPlayer.On == true)
             {
-                switch (radioPlayer.Channel)
-                {
-                    case 1:
-                        {
-                            mediaElementCh1.Play();
-                            break;
-                        }
-                        // I NEED TO INPUT THE CASES FOR RADIO'S 2-4 AND PUT THE CHANNEL BUTTONS IN
-                }
+                radioPlayer.RadioPlaying = true;
+                channelPlay();
             }
 
         }
 
-        private void radioOn_Checked(object sender, RoutedEventArgs e)
+        private void radio_Checked(object sender, RoutedEventArgs e)
         {
-            if (radioOn.IsChecked == true)
+            RadioButton radioOption = (RadioButton)sender;
+            if (radioOption.IsChecked == true & radioOption.Content.ToString() == "Radio On")
             {
                 radioPlayer.TurnOn();
+                radioDisplayText($"Channel {radioPlayer.Channel} Selected - Press 'Play' To Start");
+            }
+            else
+            {
+                radioPlayer.TurnOff();
+                mediaElementCh.Stop();
+                //radioDisplayText("radio off");
+                foreach (var item in sourceList)
+                {
+                    radioDisplayText(radioPlayer.Play());
+                }
             }
         }
 
-        private void radioOff_Checked(object sender, RoutedEventArgs e)
+        private void VolumeSlider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
-            if (radioOff.IsChecked == true)
-            {
-                radioPlayer.TurnOff();
-            }
+            Slider volSlider = (Slider)sender;
+            mediaElementCh.Volume = volSlider.Value / 100;
         }
     }
 }

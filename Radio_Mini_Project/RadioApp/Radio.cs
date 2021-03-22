@@ -22,6 +22,7 @@ namespace RadioApp
                 }
             } 
         }
+        public bool RadioPlaying { get; set; }
 
         public bool On { get { return _on; } }
 
@@ -30,16 +31,6 @@ namespace RadioApp
             if (_on == true)
             {
                 return $"Playing channel {Channel}";
-
-                switch (Channel)
-                {
-                    case 1:
-                        {
-                            
-                            break;
-                            
-                        }
-                }
             }
             else
             {
@@ -50,6 +41,7 @@ namespace RadioApp
         public void TurnOff()
         {
             _on = false;
+            RadioPlaying = false;
         }
 
         public void TurnOn()

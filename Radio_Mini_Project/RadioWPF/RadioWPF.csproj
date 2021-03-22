@@ -7,7 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Dark Woodgrain.jpg" />
+    <None Remove="light Woodgrain.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\RadioApp\RadioApp.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Dark Woodgrain.jpg" />
+    <Resource Include="light Woodgrain.jpg" />
   </ItemGroup>
 
 </Project>
